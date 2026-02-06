@@ -68,3 +68,7 @@ Create complex matrices and sort them based on specific columns using lambda key
 
 ---
 
+## 👤 Author
+* **Name:** Chirag Modi
+
+---
